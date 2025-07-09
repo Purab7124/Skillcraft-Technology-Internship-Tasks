@@ -6,6 +6,7 @@
 
 - ✔️ Task 1: World Population Bar Chart (2023 & 2024)
 - ✔️ Task 2: Data cleaning and EDA (Titanic from Kaggle)
+- ✔️ Task 3:Decision Tree Classifier for Customer Purchase Prediction
 
 ## Tech Stack
 
